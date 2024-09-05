@@ -5,7 +5,7 @@
 <li>📚 I'm currently studying programming with Python at SoftUni academy - Bulgaria and getting a degree in web-development, data analitics with Python (about halfway through).</li>
 <li>👀 I’m interested in automation software and creating useful web apps.</li>
 <li>🌱 I’m currently learning Javascript & QA Engineering at this academy. I've also been playing with some JavaScript on the side.</li>
-<li>📫 How to reach me > sdplamen@gmail.com <</li>
+<li>📫 How to reach me <email> sdplamen@gmail.com </email></li>
 </ul>
 </details>
 
