@@ -3,6 +3,9 @@
 👀 I’m interested in automation software and creating useful web apps.
 🌱 I’m currently learning Javascript & QA Engineering at this academy. I've also been playing with some JavaScript on the side.
 📫 How to reach me > sdplamen@gmail.com <
+
+<details>
+<summary>My top THINGS-TO-RANK</summary>
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
@@ -11,3 +14,4 @@
 |     4| C, C++    |
 |     3| SQL       |
 |     4| Postgres  |
+</details>
