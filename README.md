@@ -13,8 +13,8 @@
 |-----:|-----------|
 |     1| Python    |
 |     2| JavaScript|
-|     3| Swift     |
-|     4| C, C++    |
+|     3| HTML5,CSS |
+|     4| Swift     |
 |     3| SQL       |
 |     4| Postgres  |
 
