@@ -18,6 +18,6 @@
 |     2| JavaScript|
 |     3| HTML5,CSS3|
 |     4| Swift     |
-|     3| SQL       |
-|     4| Postgres  |
+|     3| MySQL       |
+|     4| PostgreSQL  |
 
